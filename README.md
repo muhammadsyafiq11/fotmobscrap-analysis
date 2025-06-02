@@ -20,12 +20,12 @@ Proyek ini merupakan proyek r yang bertujuan untuk mengambil data statistik tim 
 - **Antarmuka Notebook**: Jupyter
 
 ## 📁 Struktur Proyek
-'''
+```
 fotmobscrap-analysis/
 ├── data/
 ├── notebooks/
 └── README.md
-'''
+```
 ## 🔍 Fitur
 
 - Scraping data statistik tim dari 5 liga besar Eropa
@@ -44,8 +44,9 @@ fotmobscrap-analysis/
 ## 📚 PPT
 
 ## 🤝 Tim Pengembang
+```
 Muhammad Syafiq (M0501241005)
 Nabillah Rahmatiah Tangke (M0501241070)
 Naufalia Alfiryal (M0501241074)
 Nabila Fida Millati (M0501241087)
-
+```
