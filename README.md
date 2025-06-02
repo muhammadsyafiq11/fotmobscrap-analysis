@@ -23,6 +23,7 @@ Proyek ini merupakan proyek r yang bertujuan untuk mengambil data statistik tim 
 ```
 fotmobscrap-analysis/
 ├── data/
+├── images/
 ├── notebooks/
 └── README.md
 ```
