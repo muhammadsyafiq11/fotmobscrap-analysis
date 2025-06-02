@@ -1,6 +1,6 @@
-# 📊 Scraping & Visualisasi Data Liga Top 5 Eropa dari Fotmob
+# 📊 Scraping & Visualisasi Data Top 5 Liga Eropa dari Fotmob
 
-Proyek ini merupakan proyek r yang bertujuan untuk mengambil data statistik tim sepak bola dari situs [Fotmob.com](https://www.fotmob.com/), menyimpannya ke dalam basis data MongoDB, serta menyajikannya dalam bentuk visualisasi yang informatif untuk menggali insight dari 5 liga top Eropa.
+Proyek ini merupakan proyek yang bertujuan untuk mengambil data statistik tim sepak bola dari situs [Fotmob.com](https://www.fotmob.com/), menyimpannya ke dalam basis data MongoDB, serta menyajikannya dalam bentuk visualisasi yang informatif untuk menggali insight dari 5 liga top Eropa.
 
 ## 🎯 Tujuan Proyek
 
@@ -52,9 +52,7 @@ fotmobscrap-analysis/
 ## 📚 PPT
 
 ## 🤝 Tim Pengembang
-```
-Muhammad Syafiq (M0501241005)
-Nabillah Rahmatiah Tangke (M0501241070)
-Naufalia Alfiryal (M0501241074)
-Nabila Fida Millati (M0501241087)
-```
++ [Muhammad Syafiq](https://github.com/muhammadsyafiq11/) (M0501241005)
++ [Nabillah Rahmatiah Tangke](https://github.com/nabillahtangke/) (M0501241070)
++ [Naufalia Alfiryal](https://github.com/Naufaliaa/) (M0501241074)
++ [Nabila Fida Millati](https://github.com/nabilafida/) (M0501241087)
