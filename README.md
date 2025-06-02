@@ -8,7 +8,7 @@ Proyek ini merupakan proyek r yang bertujuan untuk mengambil data statistik tim 
 - Menyimpan data hasil scraping ke dalam basis data **MongoDB**
 - Melakukan agregasi data untuk menghasilkan insight seperti:
   - Tim dengan serangan terbaik
-  - Tim dengan serangan terbaik
+  - Tim dengan bertahan terbaik
 - Menyajikan hasil analisis melalui visualisasi menggunakan **matplotlib**, **seaborn**, dan **plotly**
 
 ## 🧰 Teknologi yang Digunakan
@@ -23,8 +23,13 @@ Proyek ini merupakan proyek r yang bertujuan untuk mengambil data statistik tim 
 ```
 fotmobscrap-analysis/
 ├── data/
+    Top.5.Liga.csv
 ├── images/
+    big chance conversion rate.png
+    performa defensif top 5 klub.png
+    radar top 5 rating.png
 ├── notebooks/
+    Scrapping & Visualization Fotmob.ipynb
 └── README.md
 ```
 ## 🔍 Fitur
