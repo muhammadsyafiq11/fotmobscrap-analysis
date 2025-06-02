@@ -39,8 +39,8 @@ fotmobscrap-analysis/
  
 ## 📊 Contoh Visualisasi
 ![Radar Chart: Top 5 Klub dengan Rating Tertinggi](images/radar%20top%205%20rating.png)
-![Radar Chart: Top 5 Klub dengan Rating Tertinggi](images/performa%20defensif%20top%205%20klub.png)
-![Radar Chart: Top 5 Klub dengan Rating Tertinggi](images/big%20chance%20convertion%20rate.png)
+![Radar Chart: Top 5 Klub dengan Konversi Peluang Besar Tertinggi](images/big%20chance%20conversion%20rate.png)
+![Radar Chart: Top 5 Klub dengan Performa Defensif Terbaik](images/performa%20defensif%20top%205%20klub.png)
 
 ## 📚 PPT
 
