@@ -7,8 +7,8 @@ Proyek ini merupakan proyek r yang bertujuan untuk mengambil data statistik tim 
 - Mengambil data statistik tim (seperti jumlah gol, kebobolan, jumlah kartu kuning) dari **Premier League**, **La Liga**, **Bundesliga**, **Serie A**, dan **Ligue 1**
 - Menyimpan data hasil scraping ke dalam basis data **MongoDB**
 - Melakukan agregasi data untuk menghasilkan insight seperti:
-  - Tim dengan serangan terbaik
-  - Tim dengan bertahan terbaik
+  - Tim dengan serangan terbaik dengan metrik tertentu
+  - Tim dengan bertahan terbaik dengan metrik tertentu
 - Menyajikan hasil analisis melalui visualisasi menggunakan **matplotlib**, **seaborn**, dan **plotly**
 
 ## 🧰 Teknologi yang Digunakan
@@ -32,6 +32,7 @@ fotmobscrap-analysis/
     Scrapping & Visualization Fotmob.ipynb
 └── README.md
 ```
+
 ## 🔍 Fitur
 
 - Scraping data statistik tim dari 5 liga besar Eropa
@@ -40,7 +41,8 @@ fotmobscrap-analysis/
 - Visualisasi seperti:
   - Bar chart: Tim dengan jumlah gol tertinggi
   - Radar chart: Efektivitas bertahan tim
-  - Rasio serangan dan pertahanan
+  - Bar chart: Tim dengan konversi peluang tertinggi
+  - dll
  
 ## 📊 Contoh Visualisasi
 ![Radar Chart: Top 5 Klub dengan Rating Tertinggi](images/radar%20top%205%20rating.png)
