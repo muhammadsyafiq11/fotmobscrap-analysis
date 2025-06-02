@@ -14,7 +14,7 @@ Proyek ini merupakan proyek r yang bertujuan untuk mengambil data statistik tim 
 ## 🧰 Teknologi yang Digunakan
 
 - **Bahasa Pemrograman**: Python
-- **Scraping**: `requests`, `BeautifulSoup`, `json`, `re`
+- **Scraping**: `requests`, `Selenium`, `pandas`
 - **Database**: MongoDB Atlas
 - **Visualisasi**: `matplotlib`, `seaborn`, `plotly`
 - **Antarmuka Notebook**: Jupyter
