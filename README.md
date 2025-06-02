@@ -38,7 +38,7 @@ fotmobscrap-analysis/
   - Rasio serangan dan pertahanan
  
 ## 📊 Contoh Visualisasi
-![Radar Chart: Top 5 Klub dengan Rating Tertinggi](images/radar top 5 rating.png)
+![Radar Chart: Top 5 Klub dengan Rating Tertinggi]("images/radar top 5 rating.png")
 
 
 
