@@ -37,8 +37,15 @@ fotmobscrap-analysis/
   - Rasio serangan dan pertahanan
  
 ## 📊 Contoh Visualisasi
+![Radar Chart: Top 5 Klub dengan Rating Tertinggi](images/radar top 5 rating.png)
+
+
 
 ## 📚 PPT
 
 ## 🤝 Tim Pengembang
+Muhammad Syafiq (M0501241005)
+Nabillah Rahmatiah Tangke (M0501241070)
+Naufalia Alfiryal (M0501241074)
+Nabila Fida Millati (M0501241087)
 
