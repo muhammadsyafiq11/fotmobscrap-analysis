@@ -50,7 +50,9 @@ fotmobscrap-analysis/
 ![Radar Chart: Top 5 Klub dengan Performa Defensif Terbaik](images/performa%20defensif%20top%205%20klub.png)
 
 ## 📚 PPT
-
+Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
++ [PPT Fotmob Data Scraping, Aggregation, and Visualization](https://drive.google.com/file/d/1F-8oZ7S3CG4BsB8t8NB5V9Xx3SxCHkor/view?usp=sharing)
+  
 ## 🤝 Tim Pengembang
 + [Muhammad Syafiq](https://github.com/muhammadsyafiq11/) (M0501241005)
 + [Nabillah Rahmatiah Tangke](https://github.com/nabillahtangke/) (M0501241070)
