@@ -4,6 +4,7 @@
 
 <div align="center">
 # 📊 Scraping & Visualisasi Data Top 5 Liga Eropa dari Fotmob
+<p align="center">
 
 Proyek ini merupakan proyek yang bertujuan untuk mengambil data statistik tim sepak bola dari situs [Fotmob.com](https://www.fotmob.com/), menyimpannya ke dalam basis data MongoDB, serta menyajikannya dalam bentuk visualisasi yang informatif untuk menggali insight dari 5 liga top Eropa.
 
